@@ -48,6 +48,7 @@ class test
             System.out.println("name : "+var.name);
             System.out.println("id   : "+var.id);
             System.out.println("age  : "+var.age);
+            System.out.println("age  : "+var.age);
         }
         
     }
